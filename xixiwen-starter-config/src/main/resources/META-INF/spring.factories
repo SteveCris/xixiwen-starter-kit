@@ -1,0 +1,7 @@
+# Auto Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.xixiwen.starter.config.KitConfigAutoConfiguration
+
+# Bootstrap Configuration
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.xixiwen.starter.config.KitConfigBootstrapConfiguration
